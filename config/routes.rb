@@ -10,7 +10,7 @@ Rails.application.routes.draw do
             end
 
     resources :resumes
-        end
+      end
     end
 
     resources :jobs do
